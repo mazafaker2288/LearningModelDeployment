@@ -1,20 +1,23 @@
 {
-  "name": "learningmodeldeployment", 
-  "version": "1.0.0", 
-  "description": "by mazafaker2288", 
+  "name": "learningmodeldeployment",
+  "version": "1.0.2",
+  "description": "by mazafaker2288",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mazafaker2288/LearningModelDeployment.git" 
+    "url": "https://github.com/mazafaker2288/LearningModelDeployment.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "mazafaker2288", 
-  "license": "MIT"
+  "author": "mazafaker2288",
+  "license": "MIT",
+  "dependencies": {
+    "blockchaininteractionlibrary": "^1.0.1"
+  }
 }
