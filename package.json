@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/mazafaker2288/LearningModelDeployment.git" 
   },
   "keywords": [ 
     "", 
     "",
     ""
   ],
-  "author": "", 
+  "author": "mazafaker2288", 
   "license": "MIT"
 }
