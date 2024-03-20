@@ -1,6 +1,6 @@
 {
   "name": "learningmodeldeployment",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "by mazafaker2288",
   "main": "./src/index.js",
   "scripts": {
